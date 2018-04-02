@@ -1,0 +1,8 @@
+Mesa==0.8.3
+numpy==1.14.2
+pandas==0.22.0
+python-dateutil==2.7.2
+pytz==2018.3
+six==1.11.0
+tornado==5.0.1
+tqdm==4.19.9
